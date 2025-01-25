@@ -10,7 +10,7 @@ if TOKEN is None:
     exit(1)
 
 # List of GIF files to alternate between
-GIF_FILES = ['main.gif', 'main2.gif',"main3.gif"]
+GIF_FILES = ['main.gif', 'main2.gif']
 
 # Toggle variable to alternate between GIFs
 current_gif_index = 0
